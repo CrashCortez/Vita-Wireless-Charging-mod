@@ -53,4 +53,25 @@ Wiring diagram for the TP4056 BPB
 
 Simple mod:
 ---
-Just cut red positve and blacvk grornd wires on the vita battery using the wiring diagraim above. The half of the wires that connect to the battary side need to be solderd to the B+ and B- pads. The red wire to the B+ pad and the black wire to the B- pad on the TP4056 board. The wires to the connecter to the vita mainboard needs to be soldered to thw out+ and teh out- solder the red positive wire to the out+ pad on teh TP4056 board and the black ground to teh out-. marked V+ and V_ on the diagrame above.
+Just cut red positve and blacvk grornd wires on the vita battery using the wiring diagram above. The half of the wires that connect to the battary side need to be solderd to the B+ and B- pads. The red wire to the B+ pad and the black wire to the B- pad on the TP4056 board. The wires to the connecter to the vita mainboard needs to be soldered to thw out+ and teh out- solder the red positive wire to the out+ pad on teh TP4056 board and the black ground to teh out-. marked V+ and V- on the diagram above.
+
+If you use a Qi reciever that will need to be soldered, solder the wires to the usb side of the TP4056 borad. Red positive to + pad and black negitive ro the - pad on the usb side of the TP4056 board.
+
+pros/cons
+---
+Keeps charging on the back side of the shell and no wires from the front shell to the back shell
+
+Weird battery dection after charging takes several minutes for the vita to detect the new charge level. After that it works normally.
+
+
+Hard Mod:
+I have not done this one yet.
+
+Sloder the Qut+ and Out- from TP4056 (or even the positive and negitive of a Qi recever 5v 1a) right to the usb positive of the vita main board. 
+
+pros/cons
+---
+Will activate the vita charging light
+Better battery detection and charging.
+
+You'll have to solder to the main board of the Vita.
