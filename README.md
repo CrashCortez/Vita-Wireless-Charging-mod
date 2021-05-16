@@ -43,7 +43,7 @@ This alternate [Qi reciever](https://www.amazon.com/Bewinner-Standard-Wireless-C
 
 Estimated charging time: 2.5 to 3 hours
 ---
-The Vita Battery 2210 mAh. 2210 at a charge rate of 1 A it should charge to max with an Efficiency loss of 20% in about 2 hours 39 minutes.  Or at 40% EL in about 3 hours and 6 minutes. The TP4056 will show red/orange light when charging and a green light when the battery is charged.
+The Vita Battery is 3.7V 2210 mAh. So 2210 at a charge rate of 1 A it should charge in about 2 hours 39 minutes to 3 hours and 6 minutes depending the Efficiency loss of the battery. The TP4056 will show red/orange light when charging and a green light when the battery is charged.
 
 Notes:
 The vita charging light will not come on in the simple mod, the battery indacator takes 3 minutes or more to update sometimes. This seems to be when the vita checks the batteries charge.
