@@ -101,4 +101,4 @@ Better battery detection and charging.
 You'll have to solder to the main board of the Vita.
 
 Wiring diagram for the Vita Main board
-??????
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/img_5679.Jpng
