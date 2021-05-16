@@ -20,7 +20,7 @@ Parts:
 --------
 
 TP4056 5V 1A Lithium Battery Charging and Protection Board
-![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/Iimages3.PNG)
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/images3.PNG)
 
 Qi Wireless Fast Charger Dock Charging Pad + Receiver
 
