@@ -12,7 +12,7 @@ Wire cutters
 
 Screwdriver
 
-Dermal (optional)
+dremel (optional)
 
 Parts: 
 --------
