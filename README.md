@@ -7,8 +7,11 @@ Vita Wireless Charging mod tutorial
 Tools:
 ------
 Soldering iron
+
 Wire cutters
+
 Screwdriver
+
 Dermal (optional)
 
 Parts: 
