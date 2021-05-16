@@ -50,15 +50,28 @@ The Vita Battery 2210 mAh. 2210 at a charge rate of 1 A it should charge to max 
 Notes:
 The vita charging light will not come on in the simple mod, the battery indacator takes 3 minutes or more to update sometimes. This seems to be when the vita checks the batteries charge.
 
+# Heat
+----
+
+Heat it does get hot, thats why I chose to put the coil over grip and under the right speaker. The speaker clip plastic keeps teh coil in place and the location keeps it as far away from teh back touch pad as possible. It gets hot but will coll rapidly.
+
 # Installation
 
 Preping the rear Vita shell
 -----
-You will need to remove some of the plastic on the inside of the the vita shell.
+You will need to remove some of the plastic on the inside of the the vita shell. leave a little bit for the battery to latch under, but use your wire cutters or dremal to clear out the areas in red. Becareful of the touch pad connector. 
+
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5663.PNG)
+
+Trim off excess paper on the Qi reciever. Be mindfull there is flex chip and a coil in there see the alternate Qi reciever picture above for referance. do a test fit.
 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5664.PNG)
 
+It should look like this when all said and done with the battery. 
+
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5631.JPG)
+
+Now you have some options on wiring there is a simple mod that i did and the harder mod. 
 
 Wiring diagram for the TP4056 BPB 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5659.PNG)
@@ -77,6 +90,7 @@ Weird battery dection after charging takes several minutes for the vita to detec
 
 
 Hard Mod:
+--
 I have not done this one yet.
 
 Sloder the Qut+ and Out- from TP4056 (or even the positive and negitive of a Qi recever 5v 1a) right to the usb positive of the vita main board. 
@@ -87,3 +101,6 @@ Will activate the vita charging light
 Better battery detection and charging.
 
 You'll have to solder to the main board of the Vita.
+
+Wiring diagram for the Vita Main board
+??????
