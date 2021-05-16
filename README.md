@@ -31,7 +31,7 @@ I used the type A micro usb
 
 As well as soldering supplies and wires.
 
-# Chatrging time 
+# Charging time 
 ----
 
 Estimated charging time: 2.5 to 3 hours
