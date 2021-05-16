@@ -1,5 +1,6 @@
 # Vita Wireless Charging mod
 Vita Wireless Charging mod tutorial 
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
 # Vita 1000 3G Wireless charging mod
 --------
