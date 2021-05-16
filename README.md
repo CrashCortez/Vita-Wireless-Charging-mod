@@ -36,7 +36,7 @@ I used the type A micro usb [Qi Wireless Fast Charger Dock Charging Pad + Receiv
 
 As well as soldering supplies and wires.
 
-This alternate [Qi reciever](https://www.amazon.com/Bewinner-Standard-Wireless-Charger-Receiver/dp/B07M6CRQ71) will need to be solderd to the TP4056 board, but it would allow you to use teh usb port for charging as well.
+This alternate [Qi reciever](https://www.amazon.com/Bewinner-Standard-Wireless-Charger-Receiver/dp/B07M6CRQ71) will need to be solderd to the TP4056 board. Allowing you to do the hard mod or it would allow you to use the usb port as an extra charging port with a shell modifaction.
 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/images4.png)
 
@@ -51,6 +51,14 @@ Notes:
 The vita charging light will not come on in the simple mod, the battery indacator takes 3 minutes or more to update sometimes. This seems to be when the vita checks the batteries charge.
 
 # Installation
+
+Preping the rear Vita shell
+-----
+You will need to remove some of the plastic on the inside of the the vita shell.
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5663.PNG)
+
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5664.PNG)
+
 
 Wiring diagram for the TP4056 BPB 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5659.PNG)
