@@ -25,7 +25,7 @@ TP4056 5V 1A Lithium Battery Charging and Protection Board
 
 Qi Wireless Fast Charger Dock Charging Pad + Receiver
 
-![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/images.jpg)
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/images.png)
 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/images2.jpg)
 
