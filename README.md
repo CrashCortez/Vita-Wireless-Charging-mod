@@ -1,11 +1,8 @@
-# Vita Wireless Charging mod
+# Vita 1000 3G Wireless charging mod
 # [Vita Wireless Charging mod video](https://www.youtube.com/embed/Zvf_ijJDTGA)
 ------
 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5631.JPG)
-
-# Vita 1000 3G Wireless charging mod
---------
 
 Tools:
 ------
