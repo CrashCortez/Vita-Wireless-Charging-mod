@@ -20,7 +20,7 @@ Parts:
 --------
 
 TP4056 5V 1A Lithium Battery Charging and Protection Board
-![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5659.PNG)
+
 
 Qi Wireless Fast Charger Dock Charging Pad + Receiver
 
@@ -31,6 +31,9 @@ A TP4056 5V 1A Lithium Battery Charging and Protection Board is used in this mod
 I used the type A micro usb [Qi Wireless Fast Charger Dock Charging Pad + Receiver](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=Qi+Wireless+Fast+Charger+Dock+Charging+Pad+%2B+Receiver+&_sacat=0)
 
 As well as soldering supplies and wires.
+
+Wiring diagram for the TP4056 BPB 
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5659.PNG)
 
 # Charging time 
 ----
