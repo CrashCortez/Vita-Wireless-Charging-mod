@@ -36,12 +36,15 @@ I used the type A micro usb [Qi Wireless Fast Charger Dock Charging Pad + Receiv
 
 As well as soldering supplies and wires.
 
-Wiring diagram for the TP4056 BPB 
-![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5659.PNG)
-
 # Charging time 
 ----
 
 Estimated charging time: 2.5 to 3 hours
 ---
 The Vita Battery 2210 mAh. 2210 at a charge rate of 1 A it should charge to max with an Efficiency loss of 20% in about 2 hours 39 minutes.  Or at 40% EL in about 3 hours and 6 minutes. The TP4056 will show red/orange light when charging and a green light when the battery is charged.
+
+# Installation
+
+Wiring diagram for the TP4056 BPB 
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5659.PNG)
+
