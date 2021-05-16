@@ -15,6 +15,7 @@ Parts:
 --------
 
 TP4056 5V 1A Lithium Battery Charging and Protection Board
+
 Qi Wireless Fast Charger Dock Charging Pad + Receiver
 
 
