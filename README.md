@@ -1,9 +1,6 @@
 # Vita Wireless Charging mod
 Vita Wireless Charging mod tutorial
 
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://youtu.be/Zvf_ijJDTGA">
-</video>
 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5631.JPG)
 
