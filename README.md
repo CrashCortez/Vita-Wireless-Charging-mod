@@ -54,7 +54,7 @@ The vita charging light will not come on in the simple mod, the battery indacato
 # Heat
 ----
 
-Heat it does get hot, thats why I chose to put the coil over grip and under the right speaker. The speaker clip plastic keeps teh coil in place and the location keeps it as far away from teh back touch pad as possible. It gets hot but will coll rapidly.
+It does get hot, thats why I chose to put the coil over grip and under the right speaker. The speaker clip plastic keeps the coil in place and the location keeps it as far away from the back touch pad as possible. It gets hot but will cool rapidly.
 
 # Installation
 
