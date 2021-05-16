@@ -36,6 +36,9 @@ I used the type A micro usb [Qi Wireless Fast Charger Dock Charging Pad + Receiv
 
 As well as soldering supplies and wires.
 
+This alternate [Qi reciever](https://www.amazon.com/Bewinner-Standard-Wireless-Charger-Receiver/dp/B07M6CRQ71) will need to be solderd to the TP4056 board, but it would allow you to use teh usb port for charging as well.
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/images4.png)
+
 # Charging 
 ----
 
