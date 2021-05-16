@@ -20,10 +20,13 @@ Parts:
 --------
 
 TP4056 5V 1A Lithium Battery Charging and Protection Board
-
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/Iimages 3.PNG)
 
 Qi Wireless Fast Charger Dock Charging Pad + Receiver
 
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/images.PNG)
+
+![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/Iimages 2.PNG)
 
 A TP4056 5V 1A Lithium Battery Charging and Protection Board is used in this mod there are 2 tpyes that could be used. I used the [Mirco USB](https://www.ebay.com/itm/2pcs-5V-1A-Micro-USB-18650-Lithium-Battery-TP4056-Charging-Board-Charger-Module/191850083395) version, you could also use the  [USB Type-C](https://www.ebay.com/itm/163448894634) version. Also note if you get Qi reciever that can be soldered to the TP4056 you could free up the usb port and use it as an external charing port upgrade. with further shell modifacations.
 
