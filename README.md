@@ -65,7 +65,7 @@ Trim off excess paper on the Qi reciever. Be mindfull there is flex chip and a c
 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5664.PNG)
 
-It should look like this when all said and done with the battery. 
+It should look like this when all said and done with the battery. Test that you get a charging light when you put it on the charging dock. 
 
 ![image](https://github.com/CrashCortez/Vita-Wireless-Charging-mod/blob/main/IMG_5631.JPG)
 
